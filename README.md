@@ -25,9 +25,6 @@ This project is an interactive Power BI dashboard developed to analyze BlinkIT g
 - Microsoft Power BI
 - Microsoft Excel
 
-## Dashboard Preview
-![BlinkIT Grocery Sales Dashboard](dashboard-screenshot.png)
-
 ## Skills Demonstrated
 - Data visualization
 - KPI development
